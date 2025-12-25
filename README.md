@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Real-Time Driver Drowsiness and Emotion Detection System
+
+This project is a real-time computer vision prototype designed to monitor driver alertness and basic facial emotions using a webcam. It tracks eye and mouth landmarks with MediaPipe FaceMesh and analyzes eye aspect ratio, blink frequency, and mouth movement to detect drowsiness and emotional states.
+
+The system identifies prolonged eye closure, excessive blinking, and facial expressions such as smiling or sadness. When drowsiness is detected, it activates a visual warning and an audible alarm to alert the user. This prototype is intended as a foundation for future integration into intelligent transport and driver safety systems.
 
 ## Getting Started
 
