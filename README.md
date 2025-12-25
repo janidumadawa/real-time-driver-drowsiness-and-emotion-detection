@@ -1,4 +1,4 @@
-Real-Time Driver Drowsiness and Emotion Detection System
+### Real-Time Driver Drowsiness and Emotion Detection System
 
 This project is a real-time computer vision prototype designed to monitor driver alertness and basic facial emotions using a webcam. It tracks eye and mouth landmarks with MediaPipe FaceMesh and analyzes eye aspect ratio, blink frequency, and mouth movement to detect drowsiness and emotional states.
 
